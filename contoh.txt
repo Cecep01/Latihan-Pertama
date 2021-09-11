@@ -2,3 +2,5 @@ Biodata
 
 Nama = Cecep Superi
 Kelas = 17 tahun
+
+Hobi = Mancing dan tidur
